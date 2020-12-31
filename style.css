@@ -1,0 +1,24 @@
+body{
+text-align: center;
+}
+img{
+width:300px;
+height:300px;
+border-radius: 50%; 
+border:5px solid;
+border-color: aqua;
+}
+#Welcome{
+background:linear-gradient(Orange 0%,blue 100%);
+}
+h1{
+color:red;
+text-shadow:2px 2px orange;
+}
+#Name{
+font-family:cursive;
+font-size:40px;
+}
+#Bio{
+background:linear-gradient(lightblue 0%,yellow 100%);
+}
